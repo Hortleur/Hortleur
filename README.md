@@ -7,8 +7,6 @@ Web Developer
 * 🌍  I'm based in Paris
 * 🖥️  See my portfolio at [My Website](http://www.kevinb.run)
 * ✉️  You can contact me at [dev@kevinb.run](mailto:dev@kevinb.run)
-* 🚀  I'm currently working on [A social network for teachers](http://github.com/Hortleur/classoeurs/)
-* 🧠  I'm learning how to correctly use stimulus wit Symfony
 
 ### Skills
 
