@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Paris
-* 🖥️  See my portfolio at [My Website](http://www.kevinb.run)
+* 🖥️  See my portfolio at [My Website](https://portfolio.server.kevinb.run)
 * ✉️  You can contact me at [dev@kevinb.run](mailto:dev@kevinb.run)
 
 ### Skills
